@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596635025 source:c:\users\joao batista\documents\faculdade\forca\jogo_forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
